@@ -1,2 +1,2 @@
-# base-template
-Base template repository for drafts
+# README for draft-ietf-tls-hybrid-design
+This is a test.
